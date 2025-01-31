@@ -11,7 +11,7 @@ I love researching, analyzing data, and making beautiful figures.
 
 ### My Career & My Approach
 
-I graduated from Brigham Young University with a B.A. in International Relations in 2011 and from Washington State University with a Ph.D. in Economics in 2016. Since 2016 I have been employed by the Economic Research Service in the U.S. Department of Agriculture. My approach to research, data analysis, and life is captured in the question, 
+I graduated from Brigham Young University with a B.A. in International Relations in 2011 and from Washington State University with a Ph.D. in Economics in 2016. Since 2016 I have been employed by the Economic Research Service in the U.S. Department of Agriculture. My approach to research, data analysis, and life is captured in the question: 
 
 <i>How would I know if I were wrong?</i> 
 
