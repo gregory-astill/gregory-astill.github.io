@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gregory Mark Astill
-subtitle: Economist, Data Scientist, Researcher
+subtitle: Economist, Researcher, Data Scientist
 ---
 
 My name is Greg Astill. I love researching, analyzing data, and making beautiful figures. 
